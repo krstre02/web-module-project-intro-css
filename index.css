@@ -5,16 +5,30 @@ body{
 div.container nav a {
     margin: 10px;
     padding: 20px;
+    text-align:center;
+    border-radius: 20px;
 
 }
 .visit {
     color: white;
     Background-color:#FF764E;
     text-align: left;
-    margin: 20px;
-    padding: 5px;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.park {
+    color: white;
+    background-color: #5ED3EB;
+    text-align: center;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 10px;
 }
 .picture1 {
 height: 200px;
-width: 300px
+width: 300px;
+border-radius: round;
+display: flex;
+justify-content: left;
 }
